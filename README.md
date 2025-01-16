@@ -12,5 +12,4 @@
 #### Day-to-Day Sales Percentage – Measuring daily sales trends.
 #### Month-to-Month Sales Percentage – Tracking monthly growth or decline in sales.
 #### Creation of a Date Table – Designing a dynamic date table to support time-based calculations and analysis.
-#### Additionally, I incorporated an interactive toggle button into the visualization. This feature allows users to seamlessly switch between chart and table views, enhancing 
-    user engagement and flexibility in data exploration.
+#### Additionally, I incorporated an interactive toggle button into the visualization. This feature allows users to seamlessly switch between chart and table views, enhancing user engagement and flexibility in data exploration.
